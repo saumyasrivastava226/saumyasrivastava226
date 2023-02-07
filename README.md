@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring MVC , Hibernate**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saumya-srivastava226](https://github.com/saumya-srivastava226)
+- 👨‍💻 All of my projects are available at [https://github.com/saumyasrivastava226](https://github.com/saumyasrivastava226)
 
 - 💬 Ask me about **DSA,OOPs,J2SE,J2EE,Spring**
 
