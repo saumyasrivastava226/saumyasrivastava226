@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/beinginsane22" target="blank"><img src="https://img.shields.io/twitter/follow/beinginsane22?logo=twitter&style=for-the-badge" alt="beinginsane22" /></a> </p>
 
-- 🌱 I’m currently learning **Spring MVC , Hibernate**
+- 🌱 I’m currently learning **Spring MVC , Hibernate, NodeJS, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saumyasrivastava226](https://github.com/saumyasrivastava226)
 
-- 💬 Ask me about **DSA,OOPs,J2SE,J2EE,Spring**
+- 💬 Ask me about **DSA,OOPs,J2SE,J2EE,Spring,RESTAPIs , API Documentation**
 
 - 📫 How to reach me **somu.22102000@gmail.com**
 
